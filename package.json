@@ -4,9 +4,8 @@
   "description": "Articles Api",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nest start",
     "start:dev": "nest start --watch",
-    "prestart:prod": "tsc",
     "start:prod": "node dist/main.js",
     "test": "jest --config=jest.json",
     "test:watch": "jest --watch --config=jest.json",

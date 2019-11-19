@@ -10,7 +10,7 @@ Install NestCLI
 
 Clone the repository
 
-    git clone https://gitlab.com/sumitpore/articles-api.git
+    git clone https://github.com/sumitpore/articles-api-using-nestjs.git
 
 Switch to the repo folder
 
